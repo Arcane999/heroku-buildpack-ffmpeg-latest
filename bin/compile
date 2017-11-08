@@ -7,7 +7,7 @@ indent() {
 echo "-----> Install ffmpeg"
 BUILD_DIR=$1
 VENDOR_DIR="vendor"
-DOWNLOAD_URL="https://drive.google.com/uc?export=download&id=135_ZgTzhJsO55sSMmHcl68LLVRBDPTPL"
+DOWNLOAD_URL="https://drive.google.com/uc?export=download&id=1bpuMqHHRxp_CVq3bAtBIAtwL_xhwCRhs"
 
 echo "DOWNLOAD_URL = " $DOWNLOAD_URL | indent
 
